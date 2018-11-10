@@ -1,7 +1,7 @@
 # AdamaBasicArduinoWorkshop
 Here you can find the slides and Codes for Basic Arduino Workshop by Adama Robotics.
 
-![Image](https://cdn.shopify.com/s/files/1/0049/0894/1382/files/Adama_Arduino_Workshop_Basic_Promotion_large.png?v=1541833168)
+![Image](https://cdn.shopify.com/s/files/1/0049/0894/1382/files/Adama_Arduino_Workshop_Basic_Promotion_1024x1024.png?v=1541833168)
 
 
 Dear Participant, 
